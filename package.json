@@ -1,0 +1,26 @@
+{
+  "name": "presto-video",
+  "version": "0.0.1",
+  "description": "Present video and videos in a variety of different ways to a browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchestnut/presto-video.git"
+  },
+  "keywords": [
+    "video",
+    "mp4",
+    "html5",
+    "augmented-reality",
+    "AR"
+  ],
+  "author": "Chestnut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cchestnut/presto-video/issues"
+  },
+  "homepage": "https://github.com/cchestnut/presto-video#readme"
+}
