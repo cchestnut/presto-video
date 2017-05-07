@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/cchestnut/presto-video/issues"
   },
-  "homepage": "https://github.com/cchestnut/presto-video#readme"
+  "homepage": "https://github.com/cchestnut/presto-video#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "fs": "0.0.1-security",
+    "hogan-express": "0.5.2",
+    "os": "0.1.1",
+    "request": "2.81.0"
+  }
 }
